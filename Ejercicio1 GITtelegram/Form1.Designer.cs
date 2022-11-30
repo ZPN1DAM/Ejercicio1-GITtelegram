@@ -109,7 +109,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.cbUrgente);
             this.Name = "Form1";
-            this.Text = "Ejercicio1 ZPN & VMS";
+            this.Text = "Ejercicio1 ZPN & VMS 1DAM";
             this.ResumeLayout(false);
             this.PerformLayout();
 
