@@ -19,10 +19,7 @@ namespace Ejercicio1_GITtelegram
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //prueba
-            //asd
-            //rama vicente
-            //hola
+           
             string textoTelegrama;
             char tipoTelegrama = 'o';
             int numPalabras = 0;
