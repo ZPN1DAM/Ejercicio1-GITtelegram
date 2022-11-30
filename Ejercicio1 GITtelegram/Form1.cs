@@ -20,6 +20,7 @@ namespace Ejercicio1_GITtelegram
         private void button1_Click(object sender, EventArgs e)
         {
             //prueba
+            //prueba2
             //rama vicente
             //hola
             string textoTelegrama;
