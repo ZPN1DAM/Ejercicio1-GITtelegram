@@ -19,6 +19,7 @@ namespace Ejercicio1_GITtelegram
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //rama vicente
             //hola
             string textoTelegrama;
             char tipoTelegrama = 'o';
